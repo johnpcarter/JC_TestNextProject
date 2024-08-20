@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/johnpcarter
   gitUsername: johnpcarter
   gitBranch: main
+services:
+- serviceName: project.jc_testnext.integrations:HelloAgain
+  packages:
+  - name: JC_TestNextProject
+    version: "1.0"
