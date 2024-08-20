@@ -12,3 +12,7 @@ services:
   packages:
   - name: JC_TestNextProject
     version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1962
